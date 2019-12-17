@@ -43,6 +43,7 @@ const requiredFiles = [
 "/_framework/_bin/System.Threading.Tasks.Extensions.dll",
 "/_framework/_bin/WebAssembly.Bindings.dll",
 "/_framework/_bin/WebAssembly.Net.Http.dll",
+"/404.html",
 "/css/bootstrap/bootstrap.min.css",
 "/css/bootstrap/bootstrap.min.css.map",
 "/css/open-iconic/FONT-LICENSE",
